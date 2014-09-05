@@ -1,0 +1,110 @@
+In order to get a good sense of the work you do, we'd like you to prepare a presentation where you can introduce yourself and talk about two or three of your recent projects/features. 
+My Name is Nathan Thaddeus Stankowski, You killed my father, prepare to die.
+
+
+Intro:
+
+?
+
+
+
+
+
+Two or three of my most recent projects:
+1. iOS app for VinCellar
+	Building tools for collectors that leverage the mobile experience.  Getting customer feedback.  Cool tools and product fit.
+
+-- Learning about the work you're proud of and why.  Don't be afraid to get into the details of your product decisions - that's sometimes the best part!
+	I'm proud of this because it is a green field app and we have the chance to not make the errors I've been cleaning up at my job.  We focused on delivering one specific product that our customers need, and I'm able to do the begining to end of this project.  We need to put in mesaurement tool into it.  I'll be soliciting for feedback verbially to get a understanding of how it's working for our customers.  It's a product that focuses on delihting out core users and thus is a return in our company to focusing products and our business on the collector and not diluting our efforts to wine novicies.  We decided to build a single tool and not take any of the other VinCellar features into the app.
+
+-- Hearing about the goals, tradeoffs you made, and how you measured success
+	The goal is to create a tool that is needed by our users, that is a clear diferentaion from the competition (Cellar Tracker) and that will delight them and make them feel they are part of a premeier cutting edge company (increase brand image).  We are trading off the known desire that is expressed by our customers to have all of the functionality in a moble form, which our competition has already provided for their users.  We are betting on a better UX and deep intergration with a suite of tool (professional scanners, barcode printers, cellar sensors) that will create a reliable and supported ecosystem.  To do this we need to focus on the core tools that are needed in a mobile experience, and leave what is desktop to desktop.
+
+-- Getting a sense for your style of PMing (what inspires and motivates you, what makes you nervous, etc.)
+	It motivates me to give customers a tool that delights them, and then a user experience that makes the technology disapear.  Leading with the tool is critical because nailing that is what make the customer delighted and willing to share the tool with others.  Making the UX beautiful is what keeps them from jumping ship to a competitor.  What makes me nervious is that I've not acaually understood what the consumer WILL want because I've become too entranced by what they ALREADY want.  Building tools is a straight forward process of defining a problem and creating a solution, but the clearly understanding both is a challenge for me.  Once defined, executing on that vision is what I'm great at.  Experience with the product and user helps me to tread in other sources for ideas.
+
+--Your involvement: Who were the people on the team and what part exactly did you do
+	The team for this is Me, Peter, Arthur + Team.  The process was discussions with Peter and the CEO Karen about what are the big company goals.  Having a mobile pressense was top on the list.  We did this through a process of many conversations about resources and goal for board presentations.  Peter and I then blocked out Friday's for a month to just play with mobile.  We both ran through the Xcode templates so and had reglar lunches where the topic was what is the 1 feature we should take from our site to mobile.  Peter had regular dinners and conversations with our users (high net worth people, expensive dinners, some are board memebers) and found that many of them were taking their own bottles to dinner and scrapping our barcodes off of their bottels to take home and process later.  In discussions with our Cellar Advisor (Derek) we learned that this was a wide practice, sometimes leading to drawers of paper and business cards that assistants would later scan in at a desktop.  I took in all of this, and in consulation with Peter we decided that scaning a barcode and consuming that bottle would be our first feature.  We then called up Arthur to see if he had capacity to work with us for this.  I then mocked up the app in Balsamic.  Peter built the API.  Our designer (Chris) made the necessary images.  I went into a bit of Project manager role at this point, following up with Artur's team to trouble shoot and make changes in the design based iterations.  
+
+- Hearing your ideas for any improvements you'd have liked to make
+	This is still in development so my ideas for improvements are being incorporated as we go.  This is the first draft of the product.  What excites me is the road map that I'm building.  I've been using this metaphore: Phase 1: Tool for Desktop users; Consuming, Adding, Barcode Printing, Collection Viewing, Move Requests.  Phase 2 Full Mobile: Registration, Onboarding flow, Tool Polishing.  Phase 3: Invoice Upload and other tool enhancements.
+
+- Hearing about what surprised you or what new things you learned
+	What I've learned from this is how little I need to come up with the ideas in a vacumme.  Selecting and filter ideas and reminding people of what context (business goals, user feedback) we are making the dicision in is a big part of coming to the right product and right product design.  Teasing out details of user experiences was also a supprise.  Getting custoemrs to tell you what they do not what they think they are doing when they interact with your product is tough.  Coming at them with different questions from different directions is very useful to noticing a pattern that many of them ignore or don't think is part of your product.
+
+2. Warehouse Zoning
+
+
+	Quick pulls for customer experience of getting their order quickly.  Interal processes leading to product enhancement.  Cutting cost and providing value.
+- Learning about the work you're proud of and why.  Don't be afraid to get into the details of your product decisions - that's sometimes the best part!
+	What makes me proud about this is that it was a product enhancement that was part solving scaling problems and part delivering on a customer experience that is a differetator to our competition (DIY and other "Full Service" storage)  I'm proud of the way that I lead this through the company and how I was able to take an engineering "itch to scratch" and turn it into a product enhancement.  Peter was already scratching at a map of the whole werehouse, which was color coded, but we had no organiation method so it only showed the chaos, didn't help to elivate it.
+
+- Hearing about the goals, tradeoffs you made, and how you measured success
+	The goal was to reduce the time it took to pull storage wines for customers.  We have a warehouse of 500k bottles, with 1000 customers, about 3000 pallet location and about 350 bottles per pallet.  As wines come in from differnt customers, the "process" of putting away the wine was to put it on the next available pallet, thus mixing many customers on a pallet.  Then we put the pallet away in the next pallet slot, thus further mixing custoemrs across the warehouse.  When a customer asks for 36 bottles of wine (and usually it's not just one kind, which is how they often come in from wineries) more and more often we were pulling from 36 different pallets.  This destroied our notion that you are storing your wine with us as if it's in your home cellar.  It might take a week to schedule your pull and ship or deliver it.  The answer was to zone the warehouse in to 90 managable chuncks and then assign each customer to one of the zones.  Large custoemrs took over single zones, and smaller customers shared a single zone.  The net effect was to make it possible to pull any order by only needing to touch at most 16 pallets.  It sounds obvious, but without designing it and laying out the process and working it, it would not have been done and was effecting our ability for customers to recomened us by word of mouth. 
+
+- Getting a sense for your style of PMing (what inspires and motivates you, what makes you nervous, etc.)
+	Customer complaints about pull times were something that they would grumble about but never really complain about.  So it's something that would become a complaint as we expanded from 500k to 1million bottles over the next few years.  From my days at customer service, I knew that it disapointed customers as they put the wine with us into deep storage and would remember to pull wine only a week before an event.  Since pulling wine was the main interaction that a storage customer has with us, it needed to be an experience that delighted or at least was seemless and invisible.  From there I worked with Peter to brain storm basic principles in storage and retrival that are used in data storage.  Working with some of these anologies in our mind, we hit upon the notion of zoning.  From this point on we enbarked on a deliberate concensus builidng process internally, since the value to the customer was obvious, we needed the solution to work well internally and be fullly adopted.
+
+- Your involvement: Who were the people on the team and what part exactly did you do
+	My involvement was to organize many rounds of discussion among the main department heads to work out the fundemantal Zoning concept.  This was then sold to the board as a major product enhancemnt that was necessary to scalling and delighting customers, by Peter.  After getting that sign off, I then worked the implementation of zoning across the warehouse by holding a series of meetings that continually brought in more of the team.  Round 1 was the three warehosue managers, then them pluss the main leads that worked these areas, then all warehosue hands meeting.  Each meeting was more of selling the idea and getting feedback on some bright ideas.  The end result was full adoption and implemetation at all levels of the company.  Beyond develping the processes and procedures through these meetings.  Peter and I physically lead the transition by doing the work each week, feeling the pain points and releaving them.  I constructed a series of reports using SSRS that gave crewes tools for processing and zoning.  Peter continued to iterate on his storage map and bring zoning and how well zoned the warehouse was into this.  
+
+- Hearing your ideas for any improvements you'd have liked to make
+	The main improvement I want to make to our move request process is making transparent the steps in the process to the customer.  We have very soficitaced warehouse managment software that is tracking every step of the picking, packing and shipping process.  Pushing these states to the user in a clean consumeable way is the next step.  We will have an internal process that will delite customers, so that will be the point when we want to expose a bit of how the sausage is made so they can be reminded of the effort that goes into the process and how well we are executing on that.  This will coincide with our mobile app as we plan on buidling in the ability to request wine from storage via the app.	
+
+- Hearing about what surprised you or what new things you learned
+	What supriesed me is how much learning goes on by doing.  We started the process change, but it was in the act of implementing it that we made a lot of process changes and details.  We learned that not just zoing but stacking pallets correctly was key.  A staging area broken into zones was necessary so we didn't try to put things directly away into zones and not create sloppy, half full pallets in the zones themselves.  Getting user feedback quickly and as rich as if you were doing it yourself is key to iterating on the design and making it successful.  It also taught me that to make a change in the product, even when it is based on a clear goal, can often lead to many other changes necessary internally.  Sustained focus on the change is necessary as staff will default (and users) to familar solutions and processes.  You have to use the new tool or whatever enough to know when to kill the option to even use the old process.  I see the value that many sites do with process driven tools where they allow users to use the old site and click a button to transition to the new when they are ready.
+
+
+3. Marketplace selling from storage only - pulling back from feature over reach.  Focusing on quality expereinces vs. quantity of expereince.  Taking into account actual customer value vs. potential customer.  Knowing where the cutomer get's value from.  Cutting costs while improving features.
+
+- Learning about the work you're proud of and why.  Don't be afraid to get into the details of your product decisions - that's sometimes the best part!
+	Marketplace is the product I was brought in to support, it was the product I was promoted to manage and in the end it was the product director decition I made in the most independent fashion at Vinfolio.  The reason I'm proud of this product decision is that I had to lobby hard for it against or maybe through Karen and the Board.  In supporting this product I knew first had at the disatifaction that it caused.  People on the buying side of the equation had no tollerance (and seeming willful ingnorance of) the time it took to send in the wine to us and process the sale.  For the sellers, they would become frustrated with the hoops they had to perform to pack up and send in the wine, and they would take their sweet time doing so.  Both sides of the equation felt that it would always be our fault that a sale was cancelled and both sides felt that they were the ones doing Vinfolio a huge favor by buying/selling the wine.  Working as support and then manager, I went to great lengths to iron out the issues.  I elimiated the bugs that were causing 1 in 10 sales to break in our system by identifying them before they would break by setting up SQL queries where I had noticed when data signaled a broken transaction.  As manager I changed processes in the warehouse so little issues like shorted sales were processed more effectivly and tightened the restrictions on seller so they had to send in wine sooner, we disabled bidding tools and put up a linke to inquire about bidding since many customers were being confused and would place bids thinking it was a timed auction, which it wasn't.  All of this was not enough, the cost of processing an off site sale in dollars, brand and repeat business was too high, a radical change was needed. 
+
+- Hearing about the goals, tradeoffs you made, and how you measured success
+	I set about to have one goal for this product.  Amazing experience for the buyers and the sellers.  There was only one situation in which this would happen and was currently happening: sales that came directly from our Storage.  In this case sales were completed in 24h.  We had the wine so there was no mis-identification by the seller.  Sellers were paying for storage so they were encouraged to price the wine at the market rate so it had the potential to move.  We measured success by number of custoemr inquireis and complaints per Marketplace sale, the repeat business after a marketplace purchase or sale.
+
+- Getting a sense for your style of PMing (what inspires and motivates you, what makes you nervous, etc.)
+	In this case I was certain of the direction we needed to head.  We had just made am major business pivot from buying and selling to collector services and storage.  This gave me the business cover to push for the change.  We also were in a cost cutting phase and off site selling was a significant cost center.  Since I was leading the charge on this change I had to prove to the CEO and the board that we were not cutting ourselves off form a wider market.  I had to produce many financial reports about where the slaes form on this platform, showing that 75% of sales came from in storage already, that they were hight dollar sales and that they were to repeat customers.  In my days in service many buyers would only buy from storage wines.  I had to fight aginst management trying to make exceptions for some sellers.  Since every seller is a high net worth individual, a single complaint can carry a lot of sway.  I had to lobby hard that there should be NO exceptions and that they should send their wine into storage if they wanted to sell. It was an exmaple of using the "Force of Will" PM style to make a change happen and stick.  It was easy to push through the company because it was removing a proces rather than changing one.  
+
+- Your involvement: Who were the people on the team and what part exactly did you do
+	As stated above I lead this project from beginging to end.  I created reporting, held meetings with mangement and different departments to lobby for this change.  I wrote up the specs for removing features from the site and engineering changes to keep sales restricted to on site.  I worked with service in the months after the change to continue to hunt down random back doors and references on the website to off-site-selling.  I drafted the communications that were circulated to our custoemr base to inform them of the change and I replied to the customer's complaints.
+
+- Hearing your ideas for any improvements you'd have liked to make
+	Now that there is a great experinec on both sides, there is huge opertunity to surface the bidding side of the equation.  We had removed "soft" listings where people would mark their wine for sale with no commitment to sell.  This lead many bidders to have a horible experience with bidding.  Since we removed that and required storage only listings, we can now surface the bidding side of our marketplace and promote it.  We can also start to promote listings across users to generate more of a market buzz.  We also need to surface bids them selves in a more prominate way.  We use a reverse bid model and so bids are for wine-year not for a specific lot.  So the bids themselves are an object that needs to be featured to seller or potential sellers.
+
+- Hearing about what surprised you or what new things you learned
+	What supprised me is how had it is to convince people of changing a feature that will make improve your brand image and reduce costs if it cuts into revenue.  The Marketplace was averaging 100k a month.  If we killed offsite selling alone we were looking at $75k a month.  Convincing people of the strategic value of consistant quality experiences was tough.  There's not a lot of data in the past to support your argument.  You have to know that your strategy is correct and fight for the tactical decisions the will allow the strategy to play out.  We now are having one of our best Summers in sales ever for the Marketplace.  We did loose revenu in the spring just after the change, but now have 3 months in a row of $125k when this is suposed to be the worst time of year for sales.  Almost all of the off site customers that swore they would never use us again have created storage accounts and are selling from our Warehouse.  Our sales team is now willing to include Marketplace listing in all their offers because they know they won't burn bridges.  Return business is up and especially return business from Marketplace sellers is up. 
+
+
+You'll get an hour to present to a group of about 6 PMs, Designers, and Engineers. We'll probably have lots of questions throughout, so aiming for a 30-45 minute presentation is good. 
+
+! I am an excellent product manager.
+! I love the work of product management.
+! I'm into the Asana product domain.
+! Look through her book for definition of my desired management style.
+! Closing slide - My history, politics is group organizing, organizing volunteers, running campaigns, running jobsites, hard core gant chart resource allocation, + technology = Asana as a perfect fit for me.  :)
+What drew me to politics wasn't the issues, it was working against the apatothy and giving people the tools to get involved, making organizing easier by teaching best practices, working on get out the vote efforts.
+! I Value their ability to execute on everything with professionalisms and quickness.  It speaks to the quality of the product and future of the company.  I feel like my best interests as a professional are linked to the best interests of the company and speaks to the ability to keep stategic goals in place (haveing processes that build a great team).
+! I value the quality of communication, I've talked with A-teams that have b or c level processes and it's refreshing to talk to an A team with A processes, expecially a company that's product is better team work work flows.
+
+
+
+SECTION ONE: Getting to know Me!
+
+SECTION TWO:
+
+Marketplace: 
+
+
+
+! I bring a lot of experience working with non-profits.
+! WeVote - politics is about communication and action, organizing to get things done and make a change to the status quoe
+
+! Working for a comany on a prodct that fundamentlaly is changing the world.
+! Mentorship - I have a great team but it's small
+! Groth in business scale - I want to be a part of something big that is changing the world.
+! Tech focus - Great to work in product that makes me smile and keeps my brain engaged.
+
+
+
+

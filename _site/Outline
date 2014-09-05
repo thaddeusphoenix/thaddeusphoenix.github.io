@@ -1,0 +1,48 @@
+In order to get a good sense of the work you do, we'd like you to prepare a presentation where you can introduce yourself and talk about two or three of your recent projects/features. 
+My Name is Nathan Thaddeus Stankowski, You killed my father, prepare to die.
+
+Two or three of my most recent projects:
+1. iOS app for VinCellar - Building tools for collectors that leverage the mobile experience.  Getting customer feedback.  Cool tools and product fit.
+
+- Learning about the work you're proud of and why.  Don't be afraid to get into the details of your product decisions - that's sometimes the best part!
+	I'm proud of this because it is a green field app and we have the chance to not make the errors I've been cleaning up at my job.  We focused on delivering one specific product that our customers need, and I'm able to do the begining to end of this project.  We need to put in mesaurement tool into it.  I'll be soliciting for feedback verbially to get a understanding of how it's working for our customers.  It's a product that focuses on delihting out core users and thus is a return in our company to focusing products and our business on the collector and not diluting our efforts to wine novicies.  We decided to build a single tool and not take any of the other VinCellar features into the app.
+
+- Hearing about the goals, tradeoffs you made, and how you measured success
+	The goal is to create a tool that is needed by our users, that is a clear diferentaion from the competition (Cellar Tracker) and that will delight them and make them feel they are part of a premeier cutting edge company (increase brand image).  We are trading off the known desire that is expressed by our customers to have all of the functionality in a moble form, which our competition has already provided for their users.  We are betting on a better UX and deep intergration with a suite of tool (professional scanners, barcode printers, cellar sensors) that will create a reliable and supported ecosystem.  To do this we need to focus on the core tools that are needed in a mobile experience, and leave what is desktop to desktop.
+
+- Getting a sense for your style of PMing (what inspires and motivates you, what makes you nervous, etc.)
+	It motivates me to give customers a tool that delights them, and then a user experience that makes the technology disapear.  Leading with the tool is critical because nailing that is what make the customer delighted and willing to share the tool with others.  Making the UX beautiful is what keeps them from jumping ship to a competitor.  What makes me nervious is that I've not acaually understood what the consumer WILL want because I've become too entranced by what they ALREADY want.  Building tools is a straight forward process of defining a problem and creating a solution, but the clearly understanding both is a challenge for me.  Once defined, executing on that vision is what I'm great at.  Experience with the product and user helps me to tread in other sources for ideas.
+
+- Your involvement: Who were the people on the team and what part exactly did you do
+	The team for this is Me, Peter, Arthur + Team.  The process was discussions with Peter and the CEO Karen about what are the big company goals.  Having a mobile pressense was top on the list.  We did this through a process of many conversations about resources and goal for board presentations.  Peter and I then blocked out Friday's for a month to just play with mobile.  We both ran through the Xcode templates so and had reglar lunches where the topic was what is the 1 feature we should take from our site to mobile.  Peter had regular dinners and conversations with our users (high net worth people, expensive dinners, some are board memebers) and found that many of them were taking their own bottles to dinner and scrapping our barcodes off of their bottels to take home and process later.  In discussions with our Cellar Advisor (Derek) we learned that this was a wide practice, sometimes leading to drawers of paper and business cards that assistants would later scan in at a desktop.  I took in all of this, and in consulation with Peter we decided that scaning a barcode and consuming that bottle would be our first feature.  We then called up Arthur to see if he had capacity to work with us for this.  I then mocked up the app in Balsamic.  Peter built the API.  Our designer (Chris) made the necessary images.  I went into a bit of Project manager role at this point, following up with Artur's team to trouble shoot and make changes in the design based iterations.  
+
+- Hearing your ideas for any improvements you'd have liked to make
+	This is still in development so my ideas for improvements are being incorporated as we go.  This is the first draft of the product.  
+
+- Hearing about what surprised you or what new things you learned
+	What I've learned from this is how little I need to come up with the ideas in a vacumme.  Selecting and filter ideas and reminding people of what context (business goals, user feedback) we are making the dicision in is a big part of coming to the right product and right product design.  Teasing out details of user experiences was also a supprise.  Getting custoemrs to tell you what they do not what they think they are doing when they interact with your product is tough.  Coming at them with different questions from different directions is very useful to noticing a pattern that many of them ignore or don't think is part of your product.
+
+
+2. Warehouse Zoning - Quick pulls for customer experience of getting their order quickly.  Interal processes leading to product enhancement.  Cutting cost and providing value.
+- Learning about the work you're proud of and why.  Don't be afraid to get into the details of your product decisions - that's sometimes the best part!
+- Hearing about the goals, tradeoffs you made, and how you measured success
+- Getting a sense for your style of PMing (what inspires and motivates you, what makes you nervous, etc.)
+- Your involvement: Who were the people on the team and what part exactly did you do
+- Hearing your ideas for any improvements you'd have liked to make
+- Hearing about what surprised you or what new things you learned
+
+
+3. Marketplace selling from storage only - pulling back from feature over reach.  Focusing on quality expereinces vs. quantity of expereince.  Taking into account actual customer value vs. potential customer.  Knowing where the cutomer get's value from.  Cutting costs while improving features. 
+- Learning about the work you're proud of and why.  Don't be afraid to get into the details of your product decisions - that's sometimes the best part!
+- Hearing about the goals, tradeoffs you made, and how you measured success
+- Getting a sense for your style of PMing (what inspires and motivates you, what makes you nervous, etc.)
+- Your involvement: Who were the people on the team and what part exactly did you do
+- Hearing your ideas for any improvements you'd have liked to make
+- Hearing about what surprised you or what new things you learned
+
+
+You'll get an hour to present to a group of about 6 PMs, Designers, and Engineers. We'll probably have lots of questions throughout, so aiming for a 30-45 minute presentation is good. 
+
+! I am an excellent product manager.
+! I love the work of product management.
+! I'm into the Asana product domain.
